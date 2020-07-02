@@ -1,6 +1,6 @@
 # memorAi
 
-memorAi is an application aimed at helping individuals diagnosed with alzheimers disease. The app helps patients keep track of their tasks,medicines,close family friends and relatives. The app has an chatbot service leveraging the wit.ai platform for easier conversation between the patient and memorAi. The chatbot helps schedule tasks,remind medicines and records sentiments of the patient. More to be disclosed soon ;)
+memorAi is an application aimed at helping individuals diagnosed with alzheimers disease. The app helps patients keep track of their tasks,medicines,close family friends and relatives. The app has a chatbot service leveraging the wit.ai platform for easier conversation between the patient and memorAi. The chatbot helps schedule tasks, remind the patient about medicines and records sentiments of the patient. 
 
 memorAi is flutter application that interacts with a flask backend.
 
