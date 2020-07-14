@@ -34,6 +34,6 @@ flutter run
 - navigate to 127.0.0.1:5000 and your app should be running there.
 
 **Get the app** : https://memorai.herokuapp.com/
-*To test the chatbot go to*: https://memorai.herokuapp.com/test
+
 
 **To view the app demo go to**:  https://youtu.be/VaIxt_ZYBwo
